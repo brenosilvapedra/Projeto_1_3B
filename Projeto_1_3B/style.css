@@ -67,7 +67,7 @@ body {
 }
 
 .abas-textos{
-    background-color: var(--texto-fundo);
+    background-image: url(img/meu\ rosto\ lindo.jpg);
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
